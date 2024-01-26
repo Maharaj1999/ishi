@@ -4,3 +4,7 @@ git restore
 git status
 git commit -m
 git rm --cached
+git log --oneline
+git log --oneline --pretty
+git config --global user.name
+git config --global user.email
