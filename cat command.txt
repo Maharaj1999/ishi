@@ -1,0 +1,29 @@
+[33mcommit 14e21c4a6f9b0a2262744f0e7f458f702a8c7800[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: single shivya420 <single420.com>
+Date:   Sun Jan 28 05:04:50 2024 +0000
+
+    jingle bell
+
+[33mcommit 159e860e30a783f0670419682627cf311954aa5f[m[33m ([m[1;32mmaster[m[33m)[m
+Author: single shivya420 <single420.com>
+Date:   Fri Jan 26 13:51:52 2024 +0000
+
+    sinle bhai
+
+[33mcommit 5f460443fc42dbe8f289f829272b39f6c112ea1e[m
+Author: single shivya420 <single420.com>
+Date:   Fri Jan 26 13:41:27 2024 +0000
+
+    added more comments
+
+[33mcommit 2785cf902e121381d3eae1a5c8d86a407b796228[m
+Author: Ubuntu <ubuntu@ip-172-31-29-29.ec2.internal>
+Date:   Fri Jan 26 13:26:19 2024 +0000
+
+    added new commands
+
+[33mcommit fda0711d4a735ceb3da1cef4385060517c45a6cd[m
+Author: Ubuntu <ubuntu@ip-172-31-29-29.ec2.internal>
+Date:   Fri Jan 26 13:15:07 2024 +0000
+
+    adding commands
