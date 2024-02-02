@@ -11,4 +11,5 @@ git config --global user.email
 git checkout -b <fie name>
 git set-url  [it will show the how to add and deleate url]
 git revert     {it will delete the recent commit and create the new version}
-git reset [it will delete the version history]
+git reset [it will delete the version history
+git merge [it will merge branches ]
