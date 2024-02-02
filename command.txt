@@ -12,3 +12,4 @@ git checkout -b <fie name>
 git set-url  [it will show the how to add and deleate url]
 git revert     {it will delete the recent commit and create the new version}
 git reset [it will delete the version history]
+git merge dev --squash [where as the dev is a branch name and squash command will squah the git log commits, it will make longhistory to short]
