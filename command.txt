@@ -13,3 +13,4 @@ git set-url  [it will show the how to add and deleate url]
 git revert     {it will delete the recent commit and create the new version}
 git reset [it will delete the version history]
 git merge dev --squash [where as the dev is a branch name and squash command will squah the git log commits, it will make longhistory to short]
+git pull origin master --rebase [rebase also act as a merge command and it will make linear logs]
